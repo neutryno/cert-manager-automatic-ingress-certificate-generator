@@ -1,0 +1,1 @@
+# cert-mamager-automatic-ingress-certificate-generator
